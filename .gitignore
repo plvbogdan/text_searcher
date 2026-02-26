@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.env
+
+export.csv
+
+test_data/
+
+.vscode/
+.idea/
